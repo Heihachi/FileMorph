@@ -70,3 +70,5 @@ Licensed under GPL/LGPL.
 ## License
 
 MIT License
+
+PS: Before instaling or trying in your code editor - please run this command in terminal - python -m venv venv
