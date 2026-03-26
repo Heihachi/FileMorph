@@ -1,0 +1,10 @@
+PyQt6
+Pillow
+pypdf
+reportlab
+python-docx
+pandas
+openpyxl
+docx2pdf
+pdf2docx
+ffmpeg-python
